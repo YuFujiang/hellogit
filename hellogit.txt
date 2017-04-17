@@ -7,3 +7,4 @@ hh
 add
 sub
 issue
+stash
